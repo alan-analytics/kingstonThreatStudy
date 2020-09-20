@@ -3,7 +3,7 @@ Repository for the kingston threat study.
 This study was comissioned by Dr. Josh Bullock of Kingston University.
 
 # Study Background
-The primary target at the onset of the study was to investigate the relationships between religion, nationalism, and populism. There was an expressed interested in also understanding how these variables affected anti-immigrant sentiment and different political motivations. The study was conducted near the beginning of the 2020 COVID-19 lockdown period, and therefore included aspects of COVID 19 and threat as key aspects of the study. In the data files that are included here have been cleaned to ensure any identifying information has been removed. 
+The primary target at the onset of the study was to investigate the relationships between religion, nationalism, and populism. There was an expressed interested in also understanding how these variables affected anti-immigrant sentiment and different political motivations. The study was conducted near the beginning of the 2020 COVID-19 lockdown period, and therefore included aspects of COVID 19 and threat as key aspects of the study. 
 
 # Methods
 This study employed two methods: survey and system dynamics modeling
@@ -23,3 +23,19 @@ We found that these different threat sets are key motivating drivers for differi
 # System Dynamics Model
 After survey data collection, we built several hypothesis driven SDMs. After finding one which we believed was both statistically and theoretically valid. We implemented many of its key relationships as a system dynamics model to further explore the possible space of outcomes related to religion, nationalism/populism, and anti-immigrant sentiment. We utilized a threat based architecture that has been previously employed to study threatening situations [13], [14], as during the course of research planning, the COVID-19 pandemic had shut down many Western nations. 
 Using a parameter sweep of the model, we further investigated the extent to which these trends could reveal interesting aspects of the system. Those are reported in the publication. 
+
+[1]	M. Bluemke, J. Jong, D. Grevenstein, I. Mikloušić, and J. Halberstadt, “Measuring Cross-Cultural Supernatural Beliefs with Self- and Peer-Reports,” PLoS One, vol. 11, no. 10, p. e0164291, 2016.
+[2]	T. Postmes, R. Spears, A. T. Lee, and R. J. Novak, “Individuality and social influence in groups: inductive and deductive routes to group identity.,” J. Pers. Soc. Psychol., vol. 89, no. 5, pp. 747–63, Nov. 2005.
+[3]	T. Postmes, S. A. Haslam, and L. Jans, “A single-item measure of social identification: Reliability, validity, and utility.,” Br. J. Soc. Psychol., Nov. 2012.
+[4]	K. Bonin and J. E. Lane, “Identity Fusion, Devoted Actor Theory, and Extremism,” in Routledge Handbook of Evolution and Religion, New York: Routledge.
+[5]	J. E. Lane, Understanding Religion Through Artificial Intelligence: Bonding and Belief. London & New York: Bloomsbury Academic, 2021.
+[6]	J. Jong, H. Whitehouse, C. Kavanagh, and J. E. Lane, “Shared Trauma Leads to Identity Fusion via Personal Reflection,” PLoS One, vol. 10, no. 12, p. e0145611, 2016.
+[7]	Á. Gómez, M. L. Brooks, M. D. Buhrmester, A. Vázquez, J. Jetten, and W. B. Swann, “On the nature of identity fusion: insights into the construct and a new measure.,” J. Pers. Soc. Psychol., vol. 100, no. 5, pp. 918–33, May 2011.
+[8]	L. Mansillo, “Loyal to the Crown: shifting public opinion towards the monarchy in Australia,” Aust. J. Polit. Sci., vol. 51, no. 2, pp. 213–235, 2016.
+[9]	World Values Survey, “WVS Database,” WVS Database, 2015. [Online]. Available: http://www.worldvaluessurvey.org/wvs.jsp.
+[10]	R. Iyer, S. Koleva, J. Graham, P. Ditto, and J. Haidt, “Understanding libertarian morality: The psychological dispositions of self-identified libertarians,” PLoS One, vol. 7, no. 8, 2012.
+[11]	A. Nilsson and A. Erlandsson, “The Moral Foundations taxonomy: Structural validity and relation to political ideology in Sweden,” Pers. Individ. Dif., vol. 76, pp. 28–32, Apr. 2015.
+[12]	J. Graham, J. Haidt, and B. A. Nosek, “Liberals and Conservatives Rely on Different Sets of Moral Foundations,” Personal. Process. Individ. Differ., vol. 96, no. 5, pp. 1029–1046, 2009.
+[13]	F. L. Shults, J. E. Lane, W. J. Wildman, S. Diallo, C. J. Lynch, and R. Gore, “Modeling Terror Management Theory: A computer simulation of the impact of mortality salience on religiosity,” Religion. Brain Behav., vol. 8, no. 1, pp. 77–100, 2017.
+[14]	F. L. Shults, R. Gore, W. J. Wildman, J. Christopher, J. E. Lane, and M. D. Toft, “A Generative Model of the Mutual Escalation of Anxiety Between Religious Groups,” J. Artif. Soc. Soc. Simul., vol. 21, no. 4, 2018.
+
