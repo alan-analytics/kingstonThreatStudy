@@ -12,7 +12,7 @@ library(ggpubr)
 
 
 
-studydata = read_excel("surveydata_cleaned_FULLAnon_tarcountries.xlsx")
+studydata = read_excel("surveydata_cleaned_FULLAnon.xlsx")
 
 # rename variables
 colnames(studydata)[10] <- "age"
