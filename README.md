@@ -3,7 +3,7 @@ Repository for the kingston threat study.
 This study was comissioned by Dr. Josh Bullock of Kingston University.
 
 # Study Background
-The primary target at the onset of the study was to investigate the relationships between religion, nationalism, and populism. There was an expressed interested in also understanding how these variables affected anti-immigrant sentiment and different political motivations. The study was conducted near the beginning of the 2020 COVID-19 lockdown period, and therefore included aspects of COVID 19 and threat as key aspects of the study. 
+The primary target at the onset of the study was to investigate the relationships between religion, nationalism, and populism. There was an expressed interested in also understanding how these variables affected anti-immigrant sentiment and different political motivations. The study was conducted near the beginning of the 2020 COVID-19 lockdown period, and therefore included aspects of COVID 19 and threat as key aspects of the study. In the data files that are included here have been cleaned to ensure any identifying information has been removed. 
 
 # Methods
 This study employed two methods: survey and system dynamics modeling
