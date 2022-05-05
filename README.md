@@ -25,17 +25,30 @@ After survey data collection, we built several hypothesis driven SDMs. After fin
 Using a parameter sweep of the model, we further investigated the extent to which these trends could reveal interesting aspects of the system. Those are reported in the publication. 
 
 [1]	M. Bluemke, J. Jong, D. Grevenstein, I. Mikloušić, and J. Halberstadt, “Measuring Cross-Cultural Supernatural Beliefs with Self- and Peer-Reports,” PLoS One, vol. 11, no. 10, p. e0164291, 2016.
+
 [2]	T. Postmes, R. Spears, A. T. Lee, and R. J. Novak, “Individuality and social influence in groups: inductive and deductive routes to group identity.,” J. Pers. Soc. Psychol., vol. 89, no. 5, pp. 747–63, Nov. 2005.
+
 [3]	T. Postmes, S. A. Haslam, and L. Jans, “A single-item measure of social identification: Reliability, validity, and utility.,” Br. J. Soc. Psychol., Nov. 2012.
-[4]	K. Bonin and J. E. Lane, “Identity Fusion, Devoted Actor Theory, and Extremism,” in Routledge Handbook of Evolution and Religion, New York: Routledge.
+
+[4]	K. Bonin and J. E. Lane, “Identity Fusion, Devoted Actor Theory, and Extremism,” in Routledge Handbook of Evolution and Religion, New York: Routledge. 2022.
+
 [5]	J. E. Lane, Understanding Religion Through Artificial Intelligence: Bonding and Belief. London & New York: Bloomsbury Academic, 2021.
+
 [6]	J. Jong, H. Whitehouse, C. Kavanagh, and J. E. Lane, “Shared Trauma Leads to Identity Fusion via Personal Reflection,” PLoS One, vol. 10, no. 12, p. e0145611, 2016.
+
 [7]	Á. Gómez, M. L. Brooks, M. D. Buhrmester, A. Vázquez, J. Jetten, and W. B. Swann, “On the nature of identity fusion: insights into the construct and a new measure.,” J. Pers. Soc. Psychol., vol. 100, no. 5, pp. 918–33, May 2011.
+
 [8]	L. Mansillo, “Loyal to the Crown: shifting public opinion towards the monarchy in Australia,” Aust. J. Polit. Sci., vol. 51, no. 2, pp. 213–235, 2016.
+
 [9]	World Values Survey, “WVS Database,” WVS Database, 2015. [Online]. Available: http://www.worldvaluessurvey.org/wvs.jsp.
+
 [10]	R. Iyer, S. Koleva, J. Graham, P. Ditto, and J. Haidt, “Understanding libertarian morality: The psychological dispositions of self-identified libertarians,” PLoS One, vol. 7, no. 8, 2012.
+
 [11]	A. Nilsson and A. Erlandsson, “The Moral Foundations taxonomy: Structural validity and relation to political ideology in Sweden,” Pers. Individ. Dif., vol. 76, pp. 28–32, Apr. 2015.
+
 [12]	J. Graham, J. Haidt, and B. A. Nosek, “Liberals and Conservatives Rely on Different Sets of Moral Foundations,” Personal. Process. Individ. Differ., vol. 96, no. 5, pp. 1029–1046, 2009.
+
 [13]	F. L. Shults, J. E. Lane, W. J. Wildman, S. Diallo, C. J. Lynch, and R. Gore, “Modeling Terror Management Theory: A computer simulation of the impact of mortality salience on religiosity,” Religion. Brain Behav., vol. 8, no. 1, pp. 77–100, 2017.
+
 [14]	F. L. Shults, R. Gore, W. J. Wildman, J. Christopher, J. E. Lane, and M. D. Toft, “A Generative Model of the Mutual Escalation of Anxiety Between Religious Groups,” J. Artif. Soc. Soc. Simul., vol. 21, no. 4, 2018.
 
